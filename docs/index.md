@@ -5,6 +5,7 @@
 
 ## Schedule
 | Time | Event |
+| ---- | ---- |
 | 12:00 pm - 1:00 pm | Lunch |
 | 1:00 pm - 2:30 pm | Work-in-progress talks |
 | 2:30 pm - 2:45 pm | Break |
